@@ -1,16 +1,28 @@
-## Hi there 👋
+🧑‍💻 Olá! Eu sou Eduardo Oliveira
 
-<!--
-**yeduardobrz/yeduardobrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Back-end focado em criar soluções escaláveis, limpas e performáticas. Trabalho principalmente com Java, Spring Boot, MySQL, Python e MongoDB, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
+🚀 Tecnologias & Skills
+🔧 Back-end & Linguagens
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /> </p>
+🗄️ Bancos de Dados
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /> </p>
+🛠️ Outras Ferramentas & Tecnologias
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /> </p>
+📌 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Desenvolvedor focado em resultados e boas práticas
+
+📚 Sempre estudando arquitetura, padrões de projeto e automação
+
+🤝 Gosto de colaborar em projetos open source
+
+🚀 Interessado em microsserviços, cloud e alta performance
+
+📊 GitHub Stats
+<div align="center">
+
+</div>
+🌐 Onde me encontrar
+
+📩 E-mail: iduaido10@gmail.com
